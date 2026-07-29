@@ -1,5 +1,7 @@
 @'
-# Phase 4 Assessment - UI Automation
+This is a project where I tested a specific website using playwright
+
+# UI Automation
 **Stack:** Python · Playwright · Pytest  
 **Website under test:** Demo Web Shop 
 **Website URL:** https://demowebshop.tricentis.com/  
